@@ -38,7 +38,6 @@ function formatarMoeda(valor: number){
     style: "currency",
     currency: "BRL"
   })
-
   return valorFormatado;
 
 }
